@@ -3,6 +3,14 @@
 [Mandi Wise: Electron Apps Made Easy with Create React App and Electron Forge](https://dev.to/mandiwise/electron-apps-made-easy-with-create-react-app-and-electron-forge-560e)
 
 
+Sometimes npm run make takes forever. Debug information can be extracted setting DEBUG environment variable:
+
+```export DEBUG=electron-forge:*,electron-forge:lifecycle namespace```
+
+Potential Workaround
+I ran electron-forge make directly and got "You must depend on "electron-prebuilt-compile" in your devDependencies" -> installed it and change range to explicit version -> worked again
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
