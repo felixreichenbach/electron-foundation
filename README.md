@@ -1,3 +1,8 @@
+# Script Used To Set It Up
+
+[Mandi Wise: Electron Apps Made Easy with Create React App and Electron Forge](https://dev.to/mandiwise/electron-apps-made-easy-with-create-react-app-and-electron-forge-560e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
