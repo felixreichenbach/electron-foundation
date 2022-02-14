@@ -1,3 +1,8 @@
+# Boilerplate Favorite
+
+https://www.electronjs.org/docs/v14-x-y/tutorial/quick-start#package-and-distribute-your-application
+
+
 # Script Used To Set It Up
 
 [Mandi Wise: Electron Apps Made Easy with Create React App and Electron Forge](https://dev.to/mandiwise/electron-apps-made-easy-with-create-react-app-and-electron-forge-560e)
